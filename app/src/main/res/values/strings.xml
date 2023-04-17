@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application. Ejercicio Tabla Multiplicar</string>
+    <string name="tv_1">Indicamos que marque un numero</string>
+    <string name="et_numero">Campo para poner el número que deseemos</string>
+    <string name="btn_mostrar">Botón para mostrar la tabla de multiplicar</string>
+    <string name="et_tabla">Se muestra la tabla de multiplicar, del número seleccionado</string>
+    <string name="rb_guardar">RadioButton para seleccionar guardar en tarjeta SD o memoria interna</string>
+
+    // Main Activity 2 //
+
+    <string name="et_nombre">Campo para poner el nombre del archivo</string>
+    <string name="et_multi">Campo para ver los datos que hemos guardado</string>
+    <string name="rb_sd">RadioButton para guardar información en tarjeta SD</string>
+    <string name="rb_interna">RadioButton para guardar información en la memoria interna</string>
+    <string name="btn_guardar">Botón para guardar la información</string>
+    <string name="btn_consultar">Botón para consultar la información</string>
+    <string name="btn_volver">Botón para volver a la pantalla principal</string>
+
+
+
+</resources>
